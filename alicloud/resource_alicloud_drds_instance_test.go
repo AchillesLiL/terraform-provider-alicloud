@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/aliyun/alibaba-cloud-sdk-go/services/drds"
-	"github.com/aliyun/terraform-provider-alicloud/alicloud/connectivity"
+	"github.com/AchillesLiL/terraform-provider-alicloud/alicloud/connectivity"
 )
 
 func init() {

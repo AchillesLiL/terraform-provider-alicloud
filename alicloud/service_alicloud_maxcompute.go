@@ -6,7 +6,7 @@ import (
 	"github.com/PaesslerAG/jsonpath"
 
 	util "github.com/alibabacloud-go/tea-utils/service"
-	"github.com/aliyun/terraform-provider-alicloud/alicloud/connectivity"
+	"github.com/AchillesLiL/terraform-provider-alicloud/alicloud/connectivity"
 )
 
 type MaxcomputeService struct {

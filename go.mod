@@ -50,4 +50,3 @@ require (
 	k8s.io/utils v0.0.0-20190221042446-c2654d5206da // indirect
 )
 
-go 1.13

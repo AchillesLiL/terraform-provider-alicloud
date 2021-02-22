@@ -13,7 +13,7 @@ import (
 
 	"encoding/json"
 
-	"github.com/aliyun/terraform-provider-alicloud/alicloud/connectivity"
+	"github.com/AchillesLiL/terraform-provider-alicloud/alicloud/connectivity"
 	"github.com/denverdino/aliyungo/common"
 	"github.com/denverdino/aliyungo/cs"
 )

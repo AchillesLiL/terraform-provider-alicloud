@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/aliyun/alibaba-cloud-sdk-go/services/alikafka"
-	"github.com/aliyun/terraform-provider-alicloud/alicloud/connectivity"
+	"github.com/AchillesLiL/terraform-provider-alicloud/alicloud/connectivity"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/validation"
 )

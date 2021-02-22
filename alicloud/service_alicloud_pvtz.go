@@ -10,7 +10,7 @@ import (
 
 	"time"
 
-	"github.com/aliyun/terraform-provider-alicloud/alicloud/connectivity"
+	"github.com/AchillesLiL/terraform-provider-alicloud/alicloud/connectivity"
 )
 
 type PvtzService struct {
